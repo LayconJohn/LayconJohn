@@ -3,8 +3,8 @@
 
 
 - 🔭 Buscando alocação no mercado
-- 🌱 Atualmente estudando Python e MySQL
-- 😄 Pronouns: Ele/ Dele
+- 🌱 Atualmente estudando Javascript e React
+- Realizando o Bootcamp da Driven 
 -->
 
 <div>
