@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Buscando alocação no mercado
-- 🌱 Atualmente estudando através do Bootcamp da Driven (Fullstack)
+- 🔭 atuando como Fullstack Developer || Analista de Produto na TLD Teledata
 - 😄 Pronouns: Ele/ Dele
 -->
 
