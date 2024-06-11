@@ -2,7 +2,7 @@
 
 
 
-- 🔭 atuando como Fullstack Developer || Analista de Produto na TLD Teledata
+- 🔭 atuando como Fullstack Developer || Analista de Produto na TLD, Hub de Cybersegurança e Ominichannel
 - 😄 Pronouns: Ele/ Dele
 -->
 
