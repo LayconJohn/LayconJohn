@@ -1,4 +1,4 @@
-### Hello World 👋 Me chamo Laycon Gomes (John)
+### Hello World 👋 Me chamo Laycon John
 
 <p align="left">
   <strong>Technical Lead | Full-stack & Backend Developer | Analista de Produto</strong><br>
